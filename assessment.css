@@ -30,7 +30,11 @@ blockquote{
 }
 
 #teamRoster{
-  background-image:("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg");
+}
+
+ul>li>ol{
+  font-weight: bold;
 }
 
 #checkbox-grid{
